@@ -5,12 +5,14 @@
 Enthusiastic about web development and technology, I'm eager to hone my skills and have a commitment continuous learning to acquire new skills and putting theoretical knowledge into practical applications. This interest fuels my ambition to pursue a career in technology and as a web developer.
 
 - 🌈 I'm interested in Front-end development and web design
-- 🍀 I'm currently learning MERN stack and Typescript
+- 🍀 I'm currently learning MERN stack, Typescript and NextJS
 - ❤️‍🔥 A burning passion for web development
 
 ## ✨ **Skills**
 
 ### 💻 Frontend Development
+
+<!-- #403d39 -->
 
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,6 +25,8 @@ Enthusiastic about web development and technology, I'm eager to hone my skills a
 ![Static Badge](https://img.shields.io/badge/SHADCN%2FUI-%23000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/REACT-%23463f3a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/REACT%20QUERY-%23403d39?style=for-the-badge&logo=reactquery&logoColor=%23FF4154)
+![Static Badge](https://img.shields.io/badge/REACT%20REDUX-%23403d39?style=for-the-badge&logo=redux&logoColor=%23764ABC)
 
 ### 🕹️ Backend and Database
 
@@ -40,12 +44,14 @@ Enthusiastic about web development and technology, I'm eager to hone my skills a
 ![Static Badge](https://img.shields.io/badge/CANVA-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![Static Badge](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jirasoftware&logoColor=white)
 
 ### 📭 Socials
 
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-%2300C4CC?style=social&logo=linkedin&logoColor=%2300C4CC)](https://www.linkedin.com/in/charlesgalangera/)
 [![Static Badge](https://img.shields.io/badge/DISCORD-%235865F2?style=social&logo=discord&logoColor=%235865F2)](https://discord.com/users/847801472166920223)
+[![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=social&logo=x&logoColor=%23000000)](https://x.com/Chrls_glngr?t=rF5hICmqKBk9OU8oyfa4PQ&s=07)
 
 ![Static Badge](https://img.shields.io/badge/galangeracharles17%40gmail.com-white?style=flat&logo=gmail&logoColor=%23EA4335)
 ![Static Badge](https://img.shields.io/badge/live%3A.cid.c71c9a4c6c9ff53d-white?style=flat&logo=skype&logoColor=%2300AFF0&link=https%3A%2F%2Fdiscord.com%2Fusers%2F847801472166920223)
