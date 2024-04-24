@@ -24,7 +24,7 @@ Enthusiastic about web development and technology, I'm eager to hone my skills a
 
 ![Static Badge](https://img.shields.io/badge/REACT-%23463f3a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🕹️ Database and Backend
+### 🕹️ Backend and Database
 
 ![Static Badge](https://img.shields.io/badge/NODEJS-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![Static Badge](https://img.shields.io/badge/EXPRESS-%23000000?style=for-the-badge&logo=express&logoColor=white)
 
