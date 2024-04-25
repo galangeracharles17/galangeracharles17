@@ -51,7 +51,7 @@ Enthusiastic about web development and technology, I'm eager to hone my skills a
 
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-%2300C4CC?style=social&logo=linkedin&logoColor=%2300C4CC)](https://www.linkedin.com/in/charlesgalangera/)
 [![Static Badge](https://img.shields.io/badge/DISCORD-%235865F2?style=social&logo=discord&logoColor=%235865F2)](https://discord.com/users/847801472166920223)
-[![Static Badge](https://img.shields.io/badge/Twitter-%23000000?style=social&logo=x&logoColor=%23000000)](https://x.com/Chrls_glngr?t=rF5hICmqKBk9OU8oyfa4PQ&s=07)
+[![Static Badge](https://img.shields.io/badge/TWITTER-%23000000?style=social&logo=x&logoColor=%23000000)](https://x.com/Chrls_glngr?t=rF5hICmqKBk9OU8oyfa4PQ&s=07)
 
 ![Static Badge](https://img.shields.io/badge/galangeracharles17%40gmail.com-white?style=flat&logo=gmail&logoColor=%23EA4335)
 ![Static Badge](https://img.shields.io/badge/live%3A.cid.c71c9a4c6c9ff53d-white?style=flat&logo=skype&logoColor=%2300AFF0&link=https%3A%2F%2Fdiscord.com%2Fusers%2F847801472166920223)
