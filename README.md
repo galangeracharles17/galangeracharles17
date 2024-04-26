@@ -38,6 +38,7 @@ Enthusiastic about web development and technology, I'm eager to hone my skills a
 ### 🌐 Other skills and Tools
 
 ![Static Badge](https://img.shields.io/badge/JAVA-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SQL-%23D71F00?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/FIGMA-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-%23FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
